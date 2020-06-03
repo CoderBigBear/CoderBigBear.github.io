@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>码宝宝的博客</title>
-  
+  <icon>https://www.gravatar.com/avatar/f6b8368c1c1b650bfe5a0a9074ab5c4e</icon>
   <subtitle>专注代码的大宝宝</subtitle>
   <link href="/atom.xml" rel="self"/>
   
@@ -11,7 +11,7 @@
   
   <author>
     <name>CoderBB</name>
-    
+    <email>coderbigbear@gmail.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
