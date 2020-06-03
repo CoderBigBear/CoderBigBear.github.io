@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>GitBook整理</title>
+    <url>/2020/06/03/GitBook%E6%95%B4%E7%90%86/</url>
+    <content><![CDATA[<p>收集的自己需要的一些Book便于查找,喜欢的bb也可以学习学习喔。</p>
+<h2 id="Android-相关"><a href="#Android-相关" class="headerlink" title="Android 相关"></a>Android 相关</h2><h3 id="Java-相关"><a href="#Java-相关" class="headerlink" title="Java 相关"></a>Java 相关</h3><h3 id="Kotlin-相关"><a href="#Kotlin-相关" class="headerlink" title="Kotlin 相关"></a>Kotlin 相关</h3><h3 id="Android面试-相关"><a href="#Android面试-相关" class="headerlink" title="Android面试 相关"></a>Android面试 相关</h3><p><a href="https://github.com/JackChan1999/Android-Interview" target="_blank" rel="noopener">Android面试宝典</a></p>
+<p><a href="https://github.com/JackChan1999/Android-Interview" target="_blank" rel="noopener">Java/Android笔试面试知识整理</a></p>
+<h2 id="Python-相关"><a href="#Python-相关" class="headerlink" title="Python 相关"></a>Python 相关</h2><h2 id="Dart-相关"><a href="#Dart-相关" class="headerlink" title="Dart 相关"></a>Dart 相关</h2><h2 id="Flutter-相关"><a href="#Flutter-相关" class="headerlink" title="Flutter 相关"></a>Flutter 相关</h2><p><a href="https://guoshuyu.cn/home/wx/" target="_blank" rel="noopener">Flutter完整开发实战详解</a></p>
+<h2 id="Vue-相关"><a href="#Vue-相关" class="headerlink" title="Vue 相关"></a>Vue 相关</h2><h2 id="算法-相关"><a href="#算法-相关" class="headerlink" title="算法 相关"></a>算法 相关</h2>]]></content>
+      <categories>
+        <category>Book</category>
+      </categories>
+      <tags>
+        <tag>阅读</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/06/01/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
@@ -17,14 +32,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>GitBook整理</title>
-    <url>/2020/06/03/GitBook%E6%95%B4%E7%90%86/</url>
-    <content><![CDATA[<p>收集的自己需要的一些Book便于查找,喜欢的bb也可以学习学习喔。</p>
-<h2 id="Android-相关"><a href="#Android-相关" class="headerlink" title="Android 相关"></a>Android 相关</h2><h3 id="Java-相关"><a href="#Java-相关" class="headerlink" title="Java 相关"></a>Java 相关</h3><h3 id="Kotlin-相关"><a href="#Kotlin-相关" class="headerlink" title="Kotlin 相关"></a>Kotlin 相关</h3><h3 id="Android面试-相关"><a href="#Android面试-相关" class="headerlink" title="Android面试 相关"></a>Android面试 相关</h3><p><a href="https://github.com/JackChan1999/Android-Interview" target="_blank" rel="noopener">Android面试宝典</a></p>
-<p><a href="https://github.com/JackChan1999/Android-Interview" target="_blank" rel="noopener">Java/Android笔试面试知识整理</a></p>
-<h2 id="Python-相关"><a href="#Python-相关" class="headerlink" title="Python 相关"></a>Python 相关</h2><h2 id="Dart-相关"><a href="#Dart-相关" class="headerlink" title="Dart 相关"></a>Dart 相关</h2><h2 id="Flutter-相关"><a href="#Flutter-相关" class="headerlink" title="Flutter 相关"></a>Flutter 相关</h2><p><a href="https://guoshuyu.cn/home/wx/" target="_blank" rel="noopener">Flutter完整开发实战详解</a></p>
-<h2 id="Vue-相关"><a href="#Vue-相关" class="headerlink" title="Vue 相关"></a>Vue 相关</h2><h2 id="算法-相关"><a href="#算法-相关" class="headerlink" title="算法 相关"></a>算法 相关</h2>]]></content>
   </entry>
 </search>
